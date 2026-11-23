@@ -1,0 +1,109 @@
+{
+  "page": 1024,
+  "date": "2026-11-22",
+  "masthead": "THE WORLD IN ONE PICTURE",
+  "stories": [
+    {
+      "id": "cop31",
+      "slot": "hero",
+      "headline": "COP31 DEADLOCK",
+      "caption": "Fossil-fuel row stalls the climate deal in Antalya, Turkey.",
+      "box": {
+        "x": 0,
+        "y": 92,
+        "w": 1024,
+        "h": 420
+      }
+    },
+    {
+      "id": "baltic-ship",
+      "slot": "grid-1",
+      "headline": "SHIP ABLAZE IN BALTIC",
+      "caption": "Ukrainian drone hits a Russian cargo ship; crew evacuates.",
+      "box": {
+        "x": 0,
+        "y": 524,
+        "w": 247,
+        "h": 186
+      }
+    },
+    {
+      "id": "cartel-boss",
+      "slot": "grid-2",
+      "headline": "CARTEL BOSS CAPTURED",
+      "caption": "“El Chapo Isidro” seized in Sinaloa; 11 dead in firefight.",
+      "box": {
+        "x": 259,
+        "y": 524,
+        "w": 247,
+        "h": 186
+      }
+    },
+    {
+      "id": "brazil-storm",
+      "slot": "grid-3",
+      "headline": "STORM RAVAGES BRAZIL",
+      "caption": "Deadly storm, 4 killed, 162 injured.",
+      "box": {
+        "x": 518,
+        "y": 524,
+        "w": 247,
+        "h": 186
+      }
+    },
+    {
+      "id": "france-protests",
+      "slot": "grid-4",
+      "headline": "FRANCE PROTESTS AGAIN",
+      "caption": "Sixth weekend over living costs.",
+      "box": {
+        "x": 777,
+        "y": 524,
+        "w": 247,
+        "h": 186
+      }
+    },
+    {
+      "id": "nvidia-chips",
+      "slot": "grid-5",
+      "headline": "US QUERIES NVIDIA CHIP SALES",
+      "caption": "~900,000 AI chips signed off for China.",
+      "box": {
+        "x": 0,
+        "y": 722,
+        "w": 247,
+        "h": 186
+      }
+    },
+    {
+      "id": "eu-indonesia",
+      "slot": "grid-6",
+      "headline": "EU–INDONESIA TRADE DEAL",
+      "caption": "Ambitious pact signed.",
+      "box": {
+        "x": 259,
+        "y": 722,
+        "w": 247,
+        "h": 186
+      }
+    },
+    {
+      "id": "liverpool",
+      "slot": "grid-7",
+      "headline": "LIVERPOOL 4–0 MAN UTD",
+      "caption": "Anfield rout on Pochettino's debut.",
+      "box": {
+        "x": 518,
+        "y": 722,
+        "w": 247,
+        "h": 186
+      }
+    }
+  ],
+  "footer": {
+    "x": 0,
+    "y": 920,
+    "w": 1024,
+    "h": 104
+  }
+}
